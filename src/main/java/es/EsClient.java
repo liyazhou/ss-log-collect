@@ -1,11 +1,12 @@
 package es;
 
-import com.fasterxml.jackson.databind.*;
+//import com.fasterxml.jackson.databind.*;
 import org.elasticsearch.action.index.IndexResponse;
 import org.elasticsearch.client.transport.TransportClient;
 import org.elasticsearch.common.settings.Settings;
 import org.elasticsearch.common.transport.InetSocketTransportAddress;
 import org.elasticsearch.common.xcontent.XContentBuilder;
+import org.elasticsearch.rest.RestStatus;
 import org.elasticsearch.transport.client.PreBuiltTransportClient;
 
 import java.io.IOException;
@@ -39,6 +40,19 @@ public class EsClient {
                     "\"postDate\":\"2013-01-30\"," +
                     "\"message\":\"trying out Elasticsearch\"" +
                     "}";
+            IndexResponse response = client.prepareIndex("twitter", "tweet")
+                    .setSource(json)
+                    .get();
+            // Index name
+            String _index = response.getIndex();
+// Type name
+            String _type = response.getType();
+// Document ID (generated or not)
+            String _id = response.getId();
+// Version (if it's the first time you index this document, you will get: 1)
+            long _version = response.getVersion();
+// status has stored current instance statement.
+            RestStatus status = response.status();
 //
 //            Map<String, Object> json = new HashMap<String, Object>();
 //            json.put("user","kimchy");
@@ -50,11 +64,11 @@ public class EsClient {
             msg.setUser("liyazhou");
             msg.setPostDate(new Date());
             msg.setMessage("hello wolrd");
-            ObjectMapper mapper = new ObjectMapper(); // create once, reuse
-
-// generate json
-            byte[] json = mapper.writeValueAsBytes(msg);
-
+//            ObjectMapper mapper = new ObjectMapper(); // create once, reuse
+//
+//// generate json
+//            byte[] json = mapper.writeValueAsBytes(msg);
+//
 
             try {
                 XContentBuilder builder = jsonBuilder()
@@ -66,7 +80,7 @@ public class EsClient {
                 String jsonStr = builder.string();
 
 
-                IndexResponse response = client.prepareIndex("twitter", "tweet", "1")
+                IndexResponse response2 = client.prepareIndex("twitter", "tweet", "1")
                         .setSource(jsonBuilder()
                                 .startObject()
                                 .field("user", "kimchy")
