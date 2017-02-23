@@ -1,0 +1,135 @@
+<!--2016-05-13 02:34:37.856#-->
+<message xml:lang="zh_CN" id="9b091-15" to="uu20160416183752000100002@im.socialshops.com/Smack" type="chat"
+         from="uu20160428140210000100001@im.socialshops.com/Smack">
+    <thread>5947d8e8-4851-4751-9085-d9b9c81fa4a0</thread>
+    <msg xmlns="im.dhgate.com">
+        <type>text</type>
+        <content>255</content>
+        <srt>2016-05-13 02:34:37.856</srt>
+    </msg>
+    <request xmlns="urn:xmpp:receipts"/>
+</message>
+
+<message xml:lang="zh_CN" id="ASr0i-3" to="uu20160416183752000100002@im.socialshops.com/Smack" type="chat"
+         from="uu20160428140210000100001@im.socialshops.com/Smack">
+<thread>23b53801-5411-4a03-a5b2-b642569ccd18</thread>
+<msg xmlns="im.dhgate.com">
+    <type>text</type>
+    <content>yuj</content>
+    <srt>2016-05-13 03:57:53.401</srt>
+</msg>
+<request xmlns="urn:xmpp:receipts"/>
+</message>
+<message xml:lang="zh_CN" id="ASr0i-4" to="uu20160416183752000100002@im.socialshops.com/Smack" type="chat"
+         from="uu20160428140210000100001@im.socialshops.com/Smack">
+<thread>a82af294-6186-4b35-99aa-a55cc656e91c</thread>
+<msg xmlns="im.dhgate.com">
+    <type>text</type>
+    <content>cfg</content>
+    <srt>2016-05-13 03:57:58.963</srt>
+</msg>
+<request xmlns="urn:xmpp:receipts"/>
+</message>
+<message type="chat" to="uu20160422174210000100004@im.socialshops.com/Smack" id="DE92CAF3-CE4D-4FC8-846B-B5CF8961D16A"
+         from="uu20160422171106000100001@im.socialshops.com/Smack">
+<request xmlns="urn:xmpp:receipts"/>
+<msg xmlns="im.dhgate.com">
+    <st>2016-05-13 13:31:04</st>
+    <type>product</type>
+    <content>[Products]</content>
+    <property>
+        PR2016042712393710000#电动汽车#￥50000.00#http://app.socialshops.com/image/socialshops/pic/e2/c5/f5/f46a3bc22a274642881f365e85e2c5f5.jpg#uu20160422171106000100001#邵军营
+    </property>
+    <url>product</url>
+    <srt>2016-05-13 07:31:12.394</srt>
+</msg>
+</message>
+<message id="Gmh2L-19" to="uu20160426235534000100001@im.socialshops.com/Smack" type="chat"
+         from="uu20160419140103000100001@im.socialshops.com/Smack">
+<thread>15e79026-9cf0-4f70-896b-d53289eb0aa7</thread>
+<msg xmlns="im.dhgate.com">
+    <type>relationapply</type>
+    <content>我是敦煌豆子</content>
+    <srt>2016-05-13 07:49:48.562</srt>
+</msg>
+<request xmlns="urn:xmpp:receipts"/>
+</message>
+<message xml:lang="zh_CN" id="Gmh2L-21" to="uu20160416183303000100001@im.socialshops.com/Smack" type="chat"
+         from="uu20160419140103000100001@im.socialshops.com/Smack">
+<thread>4cbd4dbf-6332-4a94-8619-be60c0709aa2</thread>
+<msg xmlns="im.dhgate.com">
+    <type>text</type>
+    <content>好的</content>
+    <srt>2016-05-13 07:49:55.363</srt>
+</msg>
+<request xmlns="urn:xmpp:receipts"/>
+</message>
+<message xml:lang="zh_CN" id="Gmh2L-22" to="uu20160422171106000100001@im.socialshops.com/Smack" type="chat"
+         from="uu20160419140103000100001@im.socialshops.com/Smack">
+<thread>98985deb-eebc-437f-9e32-56b0444b2033</thread>
+<msg xmlns="im.dhgate.com">
+    <type>text</type>
+    <content>嗯呢</content>
+    <srt>2016-05-13 07:50:02.005</srt>
+</msg>
+<request xmlns="urn:xmpp:receipts"/>
+</message>
+<message id="Gmh2L-24" to="uu20160506234345000100018@im.socialshops.com/Smack" type="chat"
+         from="uu20160419140103000100001@im.socialshops.com/Smack">
+<thread>df8c6fdc-45a7-4e42-b35a-489badf579d5</thread>
+<msg xmlns="im.dhgate.com">
+    <type>relationapply</type>
+    <content>我是敦煌豆子</content>
+    <srt>2016-05-13 07:50:09.935</srt>
+</msg>
+<request xmlns="urn:xmpp:receipts"/>
+</message>
+<message xml:lang="es_ES" id="Hk6pJ-30" to="uu20160920025838000100010@im.socialshops.com/Smack" type="chat"
+         from="uu20170120184327000101260@im.socialshops.com/Smack">
+<thread>6a417a87-fa4f-48ca-92e1-07a9df88284e</thread>
+<msg xmlns="im.dhgate.com">
+    <type>text</type>
+    <content>hola</content>
+    <st>2017-01-21 22:07:44</st>
+    <srt>2017-01-21 16:09:15.860</srt>
+</msg>
+<request xmlns="urn:xmpp:receipts"/>
+</message>
+<message id="Hk6pJ-74" to="uu20160927225748000100247@im.socialshops.com/Smack" type="chat"
+         from="uu20170120184327000101260@im.socialshops.com/Smack">
+<thread>51c4623c-6c3e-47de-aac1-ed541dde4f08</thread>
+<msg xmlns="im.dhgate.com">
+    <type>relationapply</type>
+    <content>Soy cox</content>
+    <st>2017-01-21 22:15:15</st>
+    <srt>2017-01-21 16:16:46.431</srt>
+</msg>
+<request xmlns="urn:xmpp:receipts"/>
+</message>
+<message type="chat" to="uu20160505115315000100002@im.socialshops.com/Smack" id="567992BC-C70D-4FD9-A5A3-35857AA0CC32"
+         from="uu20160428140210000100001@im.socialshops.com/Smack">
+<request xmlns="urn:xmpp:receipts"/>
+<msg xmlns="im.dhgate.com">
+    <type>text</type>
+    <content>你取消你取消你取消啊</content>
+    <property/>
+    <url>你取消你取消你取消啊</url>
+    <st>2017-01-22 11:06:48</st>
+    <srt>2017-01-21 22:08:19.936</srt>
+</msg>
+</message>
+<message xml:lang="zh_CN" id="z2Inz-4" to="uu20160919051628000100001@im.socialshops.com/Smack" type="chat"
+         from="uu20160427172833000100001@im.socialshops.com/Smack">
+<thread>ed9067e0-7f05-4658-a95a-36aeef9f07c1</thread>
+<msg xmlns="im.dhgate.com">
+    <type>product</type>
+    <content>[商品]</content>
+    <url>PR2016120821132010011</url>
+    <property>PR2016120821132010011#J5 earphone for Samsung s4 s5 S6
+        Note#$1.0#http://static.socialshops.com/image/socialshops/pic/27/52/f5/986da9f524034666aa5259511f2752f5#uu20160919051628000100001#Sunshine
+    </property>
+    <st>2017-02-10 19:06:43</st>
+    <srt>2017-02-10 06:08:20.134</srt>
+</msg>
+<request xmlns="urn:xmpp:receipts"/>
+</message>
